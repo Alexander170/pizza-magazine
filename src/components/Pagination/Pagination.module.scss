@@ -1,0 +1,65 @@
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  .pagination {
+    li {
+      display: inline-flex;
+      a {
+        font-size: 18px;
+        font-weight: 700;
+        margin: 10px;
+        padding: 20px;
+        border: 2px solid #fe5f1e;
+        color: #fe5f1e;
+        border-radius: 50%;
+        height: 40px;
+        width: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+  
+        &:hover {
+          transform: scale(1.2);
+        }
+
+        @media (max-width: 1000px) {
+          font-size: 18px;
+          font-weight: 700;
+          padding: 20px;
+          height: 30px;
+          width: 30px;
+        }
+        @media (max-width: 700px) {
+          margin: 7px;
+          font-size: 14px;
+          padding: 15px;
+        }
+        @media (max-width: 500px){
+            padding: 10px;
+        }
+      }
+
+      &:first-child a, &:last-child a {
+        border: none;
+        scale: 1.5;
+        margin: 10px;
+      }
+    }
+  
+    :global {
+      .selected {
+        a {
+          background-color: #fe5f1e;
+          color: #fff;
+          scale: 1.2;
+        }
+      }
+    }
+  }
+}
+
+

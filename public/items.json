@@ -1,0 +1,360 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://drive.google.com/thumbnail?id=10fJOquo4NR2QB2w2FKSbcY6rlbSBIKBP",
+    "title": "Пепперони Фреш с перцем",
+    "types": [0, 1],
+    "sizes": [25, 30, 40],
+    "price": [375, 450, 535],
+    "category": 0,
+    "rating": 4,
+    "description": "Пикантная пепперони, увеличенная порция моцареллы, томаты, фирменный томатный соус, перец душистый",
+    "priceId": [
+      "price_1O31SxBhVdtjeDVT0Vo4g2ri",
+      "price_1O31UEBhVdtjeDVTbj1Xxqbz",
+      "price_1O31VOBhVdtjeDVTURM4LYaJ"
+    ]
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-1N3Km6bWkSBRV5qfi4eBAD3L07L4SI7",
+    "title": "Сырная",
+    "types": [0],
+    "sizes": [25, 30, 40],
+    "price": [290, 355, 455],
+    "category": 3,
+    "rating": 6,
+    "description": "Моцарелла, сыры чеддер и пармезан, фирменный соус альфредо",
+    "priceId": [
+      "price_1O31XLBhVdtjeDVTI5khw98h",
+      "price_1O31ZiBhVdtjeDVTBLhs7pKZ",
+      "price_1O31aKBhVdtjeDVTq4PE5hkz"
+    ]
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-Ds0AmTdeeS0abYaxsGTg2fhDfwItlFa",
+    "title": "Цыпленок барбекю",
+    "types": [0],
+    "sizes": [25, 30, 40],
+    "price": [295, 355, 445],
+    "category": 4,
+    "rating": 4,
+    "description": "Цыпленок, бекон, соус барбекю, красный лук, моцарелла, фирменный томатный соус",
+    "priceId": [
+      "price_1O31cnBhVdtjeDVTfb2OuNcu",
+      "price_1O31dkBhVdtjeDVT7v6pkB6d",
+      "price_1O31eqBhVdtjeDVTKbSreq1e"
+    ]
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-GjrWh7_P7lC8__y4b2zP6QBkmZEuAK3",
+    "title": "Кисло-сладкий цыпленок",
+    "types": [0],
+    "sizes": [25, 30, 40],
+    "price": [275, 350, 470],
+    "category": 1,
+    "rating": 2,
+    "description": "Цыпленок, моцарелла, фирменный кисло-сладкий соус, фирменный томатный соус",
+    "priceId": [
+      "price_1O31gkBhVdtjeDVTUOznmJJZ",
+      "price_1O31hbBhVdtjeDVTYprIyiXP",
+      "price_1O31iRBhVdtjeDVTfoXYpnz5"
+    ]
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-HTVqn60_f-OFJLfOtpSHZj48NxFW8aT",
+    "title": "Чизбургер-пицца",
+    "types": [0, 1],
+    "sizes": [25, 30, 40],
+    "price": [415, 485, 565],
+    "category": 3,
+    "rating": 8,
+    "description": "Ветчина, маринованные огурчики, томаты, красный лук, чеснок, соус чизбургер, моцарелла, фирменный томатный соус",
+    "priceId": [
+      "price_1O31jxBhVdtjeDVTmLZxm5P0",
+      "price_1O31knBhVdtjeDVTsi1yTj1G",
+      "price_1O31laBhVdtjeDVTOA54emAu"
+    ]
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-HWie00zcPXSzBz7Wi8VOUgr5-P-ON2c",
+    "title": "Крэйзи пепперони",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": [350, 450],
+    "category": 4,
+    "rating": 2,
+    "description": "Пикантная пепперони, увеличенная порция моцареллы, фирменный томатный соус, красный лук, чеснок",
+    "priceId": [
+      "price_1O31mvBhVdtjeDVTqjsDBFdc",
+      "price_1O31neBhVdtjeDVTwr2c2C7G"
+    ]
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-MhfHqruMOTZl23cPSntGtuz4v2XXvrb",
+    "title": "Пепперони",
+    "types": [0, 1],
+    "sizes": [25, 30, 40],
+    "price": [380, 460, 550],
+    "category": 1,
+    "rating": 9,
+    "description": "Пикантная пепперони, увеличенная порция моцареллы, фирменный томатный соус",
+    "priceId": [
+      "price_1O31pPBhVdtjeDVTncqvCROT",
+      "price_1O31q7BhVdtjeDVTvGHpTMrr",
+      "price_1O31qnBhVdtjeDVTjBkigPZH"
+    ]
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-tNPJ_X0k0ZWXTK4XToGnqZi-SLSEZ4q",
+    "title": "Маргарита",
+    "types": [0, 1],
+    "sizes": [25, 30, 40],
+    "price": [360, 450, 550],
+    "category": 2,
+    "rating": 10,
+    "description": "Увеличенная порция моцареллы, томаты, итальянские травы, фирменный томатный соус",
+    "priceId": [
+      "price_1O31rzBhVdtjeDVTyua4fdzJ",
+      "price_1O31sfBhVdtjeDVTcvLv0YD5",
+      "price_1O31tFBhVdtjeDVTNVeT0Xre"
+    ]
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-N_x_LCfYBGjt2mZJjCeql2F74GvuvPe",
+    "title": "Четыре сезона",
+    "types": [0, 1],
+    "sizes": [25, 30, 40],
+    "price": [355, 435, 535],
+    "category": 5,
+    "rating": 10,
+    "description": "Увеличенная порция моцареллы, ветчина, пикантная пепперони, кубики брынзы, томаты, шампиньоны, итальянские травы, фирменный томатный соус",
+    "priceId": [
+      "price_1O31ucBhVdtjeDVTsSLLCjQ0",
+      "price_1O31vbBhVdtjeDVTe4GnnXEG",
+      "price_1OIaIrBhVdtjeDVTQ8KABOQb"
+    ]
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-TYnED6-9ZxLj0l0poFC58fDtraoiR7F",
+    "title": "Овощи и грибы",
+    "types": [0, 1],
+    "sizes": [25, 30, 40],
+    "price": [380, 440, 530],
+    "category": 2,
+    "rating": 7,
+    "description": "Шампиньоны, томаты, сладкий перец, красный лук, кубики брынзы, моцарелла, фирменный томатный соус, итальянские травы",
+    "priceId": [
+      "price_1O31xeBhVdtjeDVTpfYZnpjy",
+      "price_1O31ySBhVdtjeDVTzb0sTzfE",
+      "price_1O322dBhVdtjeDVTjHyCRgjB"
+    ]
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-a-6mtc1lEP5_T58YzFLcFFfLT3p9Ue-",
+    "title": "Песто",
+    "types": [0, 1],
+    "sizes": [30, 40],
+    "price": [480, 540],
+    "category": 2,
+    "rating": 8,
+    "description": "Цыпленок, соус песто, кубики брынзы, томаты, моцарелла, фирменный соус альфредо",
+    "priceId": [
+      "price_1O32FIBhVdtjeDVTgZ7TF2i7",
+      "price_1O32G5BhVdtjeDVT9saDJoJt"
+    ]
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-ba0yAcBCF2_b-d03FRBjFWMVXd0x8bh",
+    "title": "Мясная",
+    "types": [0, 1],
+    "sizes": [25, 30],
+    "price": [360, 440],
+    "category": 1,
+    "rating": 9,
+    "description": "Цыпленок, ветчина, пикантная пепперони, острая чоризо, моцарелла, фирменный томатный соус",
+    "priceId": [
+      "price_1O32IjBhVdtjeDVTwNVCZhac",
+      "price_1O32JPBhVdtjeDVT7C0dNK5O"
+    ]
+  },
+  {
+    "id": "12",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-cAYvwY1hmmEalImSyXf7nuXNBgw_edp",
+    "title": "Гавайская",
+    "types": [0, 1],
+    "sizes": [25, 30],
+    "price": [380, 460],
+    "category": 5,
+    "rating": 8,
+    "description": "Фирменный соус альфредо, цыпленок, моцарелла, ананасы",
+    "priceId": [
+      "price_1O32LYBhVdtjeDVTxoq9pnss",
+      "price_1O32MGBhVdtjeDVTmITVNS4N"
+    ]
+  },
+  {
+    "id": "13",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-fs1QtrMdh7mw8BZX7dex3TcFt5p3QxW",
+    "title": "Цыпленок ранч",
+    "types": [0, 1],
+    "sizes": [30, 40],
+    "price": [460, 550],
+    "category": 1,
+    "rating": 3,
+    "description": "Цыпленок, ветчина, соус ранч, моцарелла, томаты, чеснок",
+    "priceId": [
+      "price_1O32ONBhVdtjeDVT5QiDvkpW",
+      "price_1O32PJBhVdtjeDVTtvgNAQev"
+    ]
+  },
+  {
+    "id": "14",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-j1vkXPRo05tKP_m-snYAsrVU49CPggc",
+    "title": "Четыре сыра",
+    "types": [0],
+    "sizes": [25, 30, 40],
+    "price": [380, 415, 510],
+    "category": 3,
+    "rating": 8,
+    "description": "Сыр блю чиз, смесь сыров чеддер и пармезан, моцарелла, фирменный соус альфредо",
+    "priceId": [
+      "price_1O32R8BhVdtjeDVTPZhQgv49",
+      "price_1O32RmBhVdtjeDVTKU9rn59t",
+      "price_1O32SMBhVdtjeDVTb9dJI6Od"
+    ]
+  },
+  {
+    "id": "15",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-q2akwvBPUwFnV9OQxaoCDAN3QMEDztR",
+    "title": "Бургер-пицца",
+    "types": [0, 1],
+    "sizes": [30, 40],
+    "price": [410, 505],
+    "category": 5,
+    "rating": 9,
+    "description": "Ветчина, маринованные огурчики, томаты, красный лук, чеснок, соус бургер, моцарелла, фирменный томатный соус",
+    "priceId": [
+      "price_1O32UHBhVdtjeDVTSw5Bmu9U",
+      "price_1O32UzBhVdtjeDVTuuLpuoFQ"
+    ]
+  },
+  {
+    "id": "16",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-rGRhzQff5EZnP-Qco7gC7yWg1NXkjUJ",
+    "title": "Ветчина и сыр",
+    "types": [0],
+    "sizes": [25, 30],
+    "price": [385, 475],
+    "category": 5,
+    "rating": 6,
+    "description": "Ветчина, моцарелла, фирменный соус альфредо",
+    "priceId": [
+      "price_1O32YRBhVdtjeDVTS9iMTf1t",
+      "price_1O32Z9BhVdtjeDVTVOP4OU3R"
+    ]
+  },
+  {
+    "id": "17",
+    "imageUrl": "https://drive.google.com/thumbnail?id=10SGvljOyTSyqjG7uBHeqrr2Gb-180Nn8",
+    "title": "Чоризо фреш",
+    "types": [0, 1],
+    "sizes": [25, 30, 40],
+    "price": [330, 400, 480],
+    "category": 4,
+    "rating": 6,
+    "description": "Фирменный томатный соус, моцарелла, острая чоризо, сладкий перец",
+    "priceId": [
+      "price_1O32k1BhVdtjeDVT6qmXDBkI",
+      "price_1O32khBhVdtjeDVT2l2vGAF7",
+      "price_1O32lHBhVdtjeDVTWzTdt7VG"
+    ]
+  },
+  {
+    "id": "18",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1-vh0CgXX9K5dPwFtCPA0-WbHkjDpaTkT",
+    "title": "Трюфельная с мортаделлой",
+    "types": [0, 1],
+    "sizes": [30, 40],
+    "price": [480, 580],
+    "category": 5,
+    "rating": 9,
+    "description": "Мортаделла, трюфельный соус, шампиньоны, красный лук, моцарелла, фирменный соус альфредо, чеснок",
+    "priceId": [
+      "price_1O32mLBhVdtjeDVT989hRZzk",
+      "price_1O32muBhVdtjeDVTOu9ZC806"
+    ]
+  },
+  {
+    "id": "19",
+    "imageUrl": "https://drive.google.com/thumbnail?id=10D6CnEaa_JFSMDaHPfUs5HjpNE_vHygH",
+    "title": "Микс",
+    "types": [0],
+    "sizes": [25, 30, 40],
+    "price": [370, 450, 550],
+    "category": 5,
+    "rating": 6,
+    "description": "Пицца четвертинками с ветчиной, цыпленком, томатами, брынзой, моцареллой, фирменным соусом альфредо",
+    "priceId": [
+      "price_1O32nfBhVdtjeDVTjf1dKC1m",
+      "price_1O32oCBhVdtjeDVT0c8Gwit4",
+      "price_1O32oiBhVdtjeDVTQUSEogwe"
+    ]
+  },
+  {
+    "id": "20",
+    "imageUrl": "https://drive.google.com/thumbnail?id=10P9WYWKFx5WF-j6v6xqh1CEOR7ckFvjc",
+    "title": "Жюльен",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": [480, 580],
+    "category": 3,
+    "rating": 7,
+    "description": "Цыпленок, шампиньоны, сливочный соус с грибами, красный лук, чеснок, моцарелла, смесь сыров чеддер и пармезан, фирменный соус альфредо",
+    "priceId": [
+      "price_1O32paBhVdtjeDVTpzFTIQZU",
+      "price_1O32qBBhVdtjeDVTomZBTPjx"
+    ]
+  },
+  {
+    "id": "21",
+    "imageUrl": "https://drive.google.com/thumbnail?id=10Dc9dKw6yX7v5qZOc3FvWCPEO57J0MG4",
+    "title": "Колбаски барбекю",
+    "types": [0, 1],
+    "sizes": [25, 30, 40],
+    "price": [360, 440, 540],
+    "category": 4,
+    "rating": 4,
+    "description": "Острая чоризо, соус барбекю, томаты, красный лук, моцарелла, фирменный томатный соус",
+    "priceId": [
+      "price_1O32r0BhVdtjeDVTFh84y7sw",
+      "price_1O32rfBhVdtjeDVTsrKNHB2O",
+      "price_1O32sIBhVdtjeDVT4DUxNBT9"
+    ]
+  },
+  {
+    "id": "22",
+    "imageUrl": "https://drive.google.com/thumbnail?id=10RdLyfIfmb_cR15hFSjKasaVCWIfHuaq",
+    "title": "Диабло",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": [470, 565],
+    "category": 4,
+    "rating": 10,
+    "description": "Острая чоризо, острый перец халапеньо, соус барбекю, митболы, томаты, сладкий перец, красный лук, моцарелла, фирменный томатный соус",
+    "priceId": [
+      "price_1O32t3BhVdtjeDVTCGmT9Ylu",
+      "price_1O32taBhVdtjeDVTjQc1kWNI"
+    ]
+  }
+]

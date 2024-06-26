@@ -1,0 +1,72 @@
+@import "../../scss/variables";
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 30px 20px;
+  border-top: 1px solid $gray-line;
+  @media (max-width: 750px) {
+    flex-direction: column;
+    padding: 15px 15px;
+  }
+
+  .container {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0px;
+    @media (max-width: 600px) {
+      width: 90%;
+    }
+
+    .phone {
+      display: flex;
+      align-items: center;
+      margin: 5px;
+      cursor: pointer;
+
+      img {
+        width: 35px;
+        margin-right: 10px;
+        @media (max-width: 700px) {
+          width: 30px;
+        }
+        @media (max-width: 500px) {
+          width: 25px;
+          margin-right: 5px;
+        }
+      }
+
+      a {
+        h2 {
+          font-size: 20px;
+          color: #a3a3a3;
+          @media (max-width: 700px) {
+            font-size: 15px;
+          }
+          @media (max-width: 500px) {
+            font-size: 14px;
+          }
+        }
+      }
+    }
+
+    .menuList {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      a {
+        font-size: 20px;
+        // margin: 5px;
+        color: $orange;
+        font-weight: 700;
+        @media (max-width: 700px) {
+          font-size: 15px;
+        }
+      }
+    }
+  }
+}
